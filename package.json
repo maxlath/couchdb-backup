@@ -1,6 +1,6 @@
 {
   "name": "couchdb-backup",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "dump & restore a CouchDB database",
   "main": "/couchdb-backup.sh",
   "bin": {
