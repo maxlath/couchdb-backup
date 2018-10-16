@@ -1,0 +1,38 @@
+{
+  "name": "couchdb-backup",
+  "version": "1.0.0",
+  "description": "dump & restore a CouchDB database",
+  "main": "/couchdb-backup.sh",
+  "bin": {
+    "couchdb-backup": "./couchdb-backup.sh"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxlath/couchdb-dump.git"
+  },
+  "keywords": [
+    "couchdb",
+    "backup",
+    "dump"
+  ],
+  "authors": [
+    {
+      "name": "Daniele Bailo",
+      "email": "daniele@danielebailo.it",
+      "url": "www.danielebailo.it"
+    },
+    {
+      "name": "Darren Gibbard",
+      "email": "dalgibbard@gmail.com",
+      "url": "dgunix.com"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maxlath/couchdb-dump/issues"
+  },
+  "homepage": "https://github.com/maxlath/couchdb-dump#readme"
+}
