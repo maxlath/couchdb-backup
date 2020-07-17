@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maxlath/couchdb-dump.git"
+    "url": "git+https://github.com/maxlath/couchdb-backup.git"
   },
   "keywords": [
     "couchdb",
@@ -32,7 +32,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/maxlath/couchdb-dump/issues"
+    "url": "https://github.com/maxlath/couchdb-backup/issues"
   },
-  "homepage": "https://github.com/maxlath/couchdb-dump#readme"
+  "homepage": "https://github.com/maxlath/couchdb-backup#readme"
 }
